@@ -47,3 +47,19 @@
         margin-top: 1em;
     }
 }
+@media (min-width: 481px) and (max-width: 890px){
+    .header-h2{
+        font-size: 2.5em;
+        margin-top: 2em;
+    }
+    .header-p{
+        font-size: 1.5em;
+        margin-top: 3em;
+    }
+}
+.about1-div{
+    border: 1px solid black;
+    height: 40vh;
+    width: 80vw;
+    margin: auto;
+}

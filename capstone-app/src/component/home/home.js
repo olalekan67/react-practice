@@ -11,12 +11,12 @@ function Home() {
           Our restaurant is one of the greatest places to enjoy breakfast, launch, or dinner. Learn more about our menu.
         </p>
       </div>
-      <div className='about-div'>
-        <h4>about us</h4>
-        <h2>
+      <div className='about1-div'>
+        <h4 className='about1-h4'>about us</h4>
+        <h2 className='about1-h2'>
           welcome to our restaurant
         </h2>
-        <p className=''>
+        <p className='about1-p'>
         Protective masks and facial coverings will have to be worn by all staff and guests. Masks are required at all times at the restaurant unless seated at the table.<br/>
         Reservations are strongly recommended since we are only currently operating at a smaller capacity.
         </p>

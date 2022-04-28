@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-practice/static/css/main.0440ce99.css",
-    "main.js": "/react-practice/static/js/main.9ca6bf4b.js",
+    "main.css": "/react-practice/static/css/main.aeedb1c9.css",
+    "main.js": "/react-practice/static/js/main.6d17f8ab.js",
     "static/media/burger.jpg": "/react-practice/static/media/burger.e5d56724f59802efc6ca.jpg",
     "static/media/semo.png": "/react-practice/static/media/semo.9d4e9b7a1c1eedec9701.png",
     "static/media/fishbarbeque.jpg": "/react-practice/static/media/fishbarbeque.f301e3297d004a869154.jpg",
@@ -11,14 +11,15 @@
     "static/media/grilledchicken.jpg": "/react-practice/static/media/grilledchicken.d59f6523e48409d188be.jpg",
     "static/media/friedrice.jpg": "/react-practice/static/media/friedrice.ccbf8ece3079e4805efe.jpg",
     "static/media/shawarma.jfif": "/react-practice/static/media/shawarma.5c91ff994e24d1e62895.jfif",
+    "static/media/jollofrice.jpg": "/react-practice/static/media/jollofrice.ab290968366d29ba674e.jpg",
     "static/media/pizza.jfif": "/react-practice/static/media/pizza.cc48890001a6675b3645.jfif",
     "static/media/poundedyam.jfif": "/react-practice/static/media/poundedyam.29f46cc7db839063d4d7.jfif",
     "index.html": "/react-practice/index.html",
-    "main.0440ce99.css.map": "/react-practice/static/css/main.0440ce99.css.map",
-    "main.9ca6bf4b.js.map": "/react-practice/static/js/main.9ca6bf4b.js.map"
+    "main.aeedb1c9.css.map": "/react-practice/static/css/main.aeedb1c9.css.map",
+    "main.6d17f8ab.js.map": "/react-practice/static/js/main.6d17f8ab.js.map"
   },
   "entrypoints": [
-    "static/css/main.0440ce99.css",
-    "static/js/main.9ca6bf4b.js"
+    "static/css/main.aeedb1c9.css",
+    "static/js/main.6d17f8ab.js"
   ]
 }

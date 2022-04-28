@@ -1,0 +1,28 @@
+.card{
+    height: 20vh;
+    width: 10vw;
+    background-color: black;
+    color: grey;
+    text-align: start;
+    margin-left: 2em;
+    /* border: 1px solid black; */
+}
+@media (max-width: 580px){
+    .card{
+        height: 15vh;
+        width: 70vw;
+        text-align: start;
+        margin: auto;
+        margin-bottom: 1em;
+    }
+}
+
+@media (min-width: 581px) and (max-width: 790px){
+    .card{
+        height: 15vh;
+        width: 70vw;
+        text-align: start;
+        margin: auto;
+        margin-bottom: 1em;
+    }
+}

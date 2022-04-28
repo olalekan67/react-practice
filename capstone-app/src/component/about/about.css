@@ -1,0 +1,26 @@
+.about{
+    width: 70vw;
+    /* border: 1px solid black; */
+    text-align: center;
+    margin: auto;
+}
+@media screen and (max-width: 480px) {
+    .about{
+        width: 95vw;
+    }
+}
+
+.about-h3{
+
+}
+.about-p{
+    text-align: start;
+    /* text-justify: justify; */
+    /* width: 60vw; */
+    /* margin: auto; */
+}
+@media (min-width: 890px){
+    .about-p{
+        padding: 0px 120px 0px 120px;
+    }
+}

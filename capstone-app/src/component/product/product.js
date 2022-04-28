@@ -4,7 +4,7 @@ import shawarma from './food/shawarma.jfif'
 import burger from './food/burger.jpg'
 import fish from './food/fishbarbeque.jpg'
 import friedRice from './food/friedrice.jpg'
-// import jollof from './food/jollof.jpg'
+import jollof from './food/jollofrice.jpg'
 import pizza from './food/pizza.jfif'
 import chicken from './food/grilledchicken.jpg'
 import potato from './food/potato_pottage.jpg'
@@ -19,7 +19,7 @@ function Product() {
     {id:2, name: 'burger', image: burger, price: '$4'},
     {id:3, name: 'fish Barbeque', image: fish, price: '$5'},
     {id:4, name: 'fried Rice', image: friedRice, price: '$8'},
-    // {id:5, name: 'jollof', image: jollof, price: '$9'},
+    {id:5, name: 'jollof', image: jollof, price: '$9'},
     {id:6, name: 'pizza', image: pizza, price: '$6'},
     {id:7, name: 'chicken', image: chicken, price: '$5'},
     {id:8, name: 'potato', image: potato, price: '$6'},

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-practice/static/css/main.aeedb1c9.css",
+    "main.css": "/react-practice/static/css/main.4bf30010.css",
     "main.js": "/react-practice/static/js/main.6d17f8ab.js",
     "static/media/burger.jpg": "/react-practice/static/media/burger.e5d56724f59802efc6ca.jpg",
     "static/media/semo.png": "/react-practice/static/media/semo.9d4e9b7a1c1eedec9701.png",
@@ -15,11 +15,11 @@
     "static/media/pizza.jfif": "/react-practice/static/media/pizza.cc48890001a6675b3645.jfif",
     "static/media/poundedyam.jfif": "/react-practice/static/media/poundedyam.29f46cc7db839063d4d7.jfif",
     "index.html": "/react-practice/index.html",
-    "main.aeedb1c9.css.map": "/react-practice/static/css/main.aeedb1c9.css.map",
+    "main.4bf30010.css.map": "/react-practice/static/css/main.4bf30010.css.map",
     "main.6d17f8ab.js.map": "/react-practice/static/js/main.6d17f8ab.js.map"
   },
   "entrypoints": [
-    "static/css/main.aeedb1c9.css",
+    "static/css/main.4bf30010.css",
     "static/js/main.6d17f8ab.js"
   ]
 }

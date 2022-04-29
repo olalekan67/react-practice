@@ -22,7 +22,29 @@ function Home() {
           Protective masks and facial coverings will have to be worn by all staff and guests. Masks are required at all times at the restaurant unless seated at the table.<br/>
           Reservations are strongly recommended since we are only currently operating at a smaller capacity.
           </p>
-          <button className='about1-btn'><Link to={'/about'} className='about1-link'>Learn More</Link></button>
+          <Link to={'/about'} className='about1-link'><button className='about1-btn'>Learn More</button></Link>
+        </div>
+      </div>
+      <div className='mid-container'>
+        <div className='mid-div'>
+          <div className='call-div'>
+            <h5 className='mid-h5'>
+              Call us <br/>
+              Call us on (234)907-5550-934 and book your table by phone
+            </h5>
+          </div>
+          <div className='visit-div'>
+            <h5 className='mid-h5'>
+              Visit us <br/>
+              No 14 araromi adekunle bailey.Lagos state
+            </h5>
+          </div>
+          <div className='serve-div'>
+            <h5 className='serve-h5'>
+              We serve only the testiest! <br />
+              Order now to get started.
+            </h5>
+          </div>
         </div>
       </div>
      

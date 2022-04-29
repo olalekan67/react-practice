@@ -1,0 +1,7 @@
+
+.footer-div{
+    position: sticky;
+    background-color: gainsboro;
+    padding: 10px 0px;
+    top: 100%;
+}

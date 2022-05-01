@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-practice/home/static/css/main.5aa68578.css",
-    "main.js": "/react-practice/home/static/js/main.456160c4.js",
-    "static/media/burger.jpg": "/react-practice/home/static/media/burger.e5d56724f59802efc6ca.jpg",
-    "static/media/semo.png": "/react-practice/home/static/media/semo.9d4e9b7a1c1eedec9701.png",
-    "static/media/fishbarbeque.jpg": "/react-practice/home/static/media/fishbarbeque.f301e3297d004a869154.jpg",
-    "static/media/salad.jpg": "/react-practice/home/static/media/salad.d7147d3c085d2afef906.jpg",
-    "static/media/yamandegg.jpg": "/react-practice/home/static/media/yamandegg.8b692e3738504dc91c3f.jpg",
-    "static/media/potato_pottage.jpg": "/react-practice/home/static/media/potato_pottage.57fc5e8a575e4bd13eb5.jpg",
-    "static/media/grilledchicken.jpg": "/react-practice/home/static/media/grilledchicken.d59f6523e48409d188be.jpg",
-    "static/media/friedrice.jpg": "/react-practice/home/static/media/friedrice.ccbf8ece3079e4805efe.jpg",
-    "static/media/shawarma.jfif": "/react-practice/home/static/media/shawarma.5c91ff994e24d1e62895.jfif",
-    "static/media/jollofrice.jpg": "/react-practice/home/static/media/jollofrice.ab290968366d29ba674e.jpg",
-    "static/media/pizza.jfif": "/react-practice/home/static/media/pizza.cc48890001a6675b3645.jfif",
-    "static/media/poundedyam.jfif": "/react-practice/home/static/media/poundedyam.29f46cc7db839063d4d7.jfif",
-    "index.html": "/react-practice/home/index.html",
-    "main.5aa68578.css.map": "/react-practice/home/static/css/main.5aa68578.css.map",
-    "main.456160c4.js.map": "/react-practice/home/static/js/main.456160c4.js.map"
+    "main.css": "/react-practice/static/css/main.5aa68578.css",
+    "main.js": "/react-practice/static/js/main.8b3e51a4.js",
+    "static/media/burger.jpg": "/react-practice/static/media/burger.e5d56724f59802efc6ca.jpg",
+    "static/media/semo.png": "/react-practice/static/media/semo.9d4e9b7a1c1eedec9701.png",
+    "static/media/fishbarbeque.jpg": "/react-practice/static/media/fishbarbeque.f301e3297d004a869154.jpg",
+    "static/media/salad.jpg": "/react-practice/static/media/salad.d7147d3c085d2afef906.jpg",
+    "static/media/yamandegg.jpg": "/react-practice/static/media/yamandegg.8b692e3738504dc91c3f.jpg",
+    "static/media/potato_pottage.jpg": "/react-practice/static/media/potato_pottage.57fc5e8a575e4bd13eb5.jpg",
+    "static/media/grilledchicken.jpg": "/react-practice/static/media/grilledchicken.d59f6523e48409d188be.jpg",
+    "static/media/friedrice.jpg": "/react-practice/static/media/friedrice.ccbf8ece3079e4805efe.jpg",
+    "static/media/shawarma.jfif": "/react-practice/static/media/shawarma.5c91ff994e24d1e62895.jfif",
+    "static/media/jollofrice.jpg": "/react-practice/static/media/jollofrice.ab290968366d29ba674e.jpg",
+    "static/media/pizza.jfif": "/react-practice/static/media/pizza.cc48890001a6675b3645.jfif",
+    "static/media/poundedyam.jfif": "/react-practice/static/media/poundedyam.29f46cc7db839063d4d7.jfif",
+    "index.html": "/react-practice/index.html",
+    "main.5aa68578.css.map": "/react-practice/static/css/main.5aa68578.css.map",
+    "main.8b3e51a4.js.map": "/react-practice/static/js/main.8b3e51a4.js.map"
   },
   "entrypoints": [
     "static/css/main.5aa68578.css",
-    "static/js/main.456160c4.js"
+    "static/js/main.8b3e51a4.js"
   ]
 }

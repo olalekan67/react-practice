@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-practice/static/css/main.4ee0760f.css",
-    "main.js": "/react-practice/static/js/main.feaca7c5.js",
+    "main.css": "/react-practice/static/css/main.5aa68578.css",
+    "main.js": "/react-practice/static/js/main.8b3e51a4.js",
     "static/media/burger.jpg": "/react-practice/static/media/burger.e5d56724f59802efc6ca.jpg",
     "static/media/semo.png": "/react-practice/static/media/semo.9d4e9b7a1c1eedec9701.png",
     "static/media/fishbarbeque.jpg": "/react-practice/static/media/fishbarbeque.f301e3297d004a869154.jpg",
@@ -15,11 +15,11 @@
     "static/media/pizza.jfif": "/react-practice/static/media/pizza.cc48890001a6675b3645.jfif",
     "static/media/poundedyam.jfif": "/react-practice/static/media/poundedyam.29f46cc7db839063d4d7.jfif",
     "index.html": "/react-practice/index.html",
-    "main.4ee0760f.css.map": "/react-practice/static/css/main.4ee0760f.css.map",
-    "main.feaca7c5.js.map": "/react-practice/static/js/main.feaca7c5.js.map"
+    "main.5aa68578.css.map": "/react-practice/static/css/main.5aa68578.css.map",
+    "main.8b3e51a4.js.map": "/react-practice/static/js/main.8b3e51a4.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ee0760f.css",
-    "static/js/main.feaca7c5.js"
+    "static/css/main.5aa68578.css",
+    "static/js/main.8b3e51a4.js"
   ]
 }

@@ -47,7 +47,9 @@ function Home() {
           </div>
         </div>
       </div>
-     
+      <div className='open-container'>
+        
+      </div>
     </div>
   )
 }

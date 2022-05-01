@@ -1,176 +1,98 @@
+
 .header-div{
-    height: 60vh;
-    width: 100%;
-    /* border: 1px solid black; */
-    text-align: center;
-    background-image: url(../product/food/fishbarbeque.jpg);
-    /* background-size: ; */
-    background-repeat: no-repeat;
-    background-size: 100vw 60vh;
-    color: white;
-    margin-top: -9px;
-    padding: 0px 190px;
+    max-width: 699px;
+    min-height: 20vh;
+    /* max-height: 40vh; */
+    background-color:rgb(157, 149, 141);
+    padding: 2em 0em;
+    /* margin-top: -2vh; */
 }
 .header-h2{
-    padding-top: 1em;
-    font-size: 4rem;
-    text-transform: uppercase;
+    font-size: 2rem;
+    text-transform: capitalize;
+    color: #fefefe;
 }
 .header-p{
-    font-size: 2rem;
-}
-@media (max-width: 600px) {
-    .header-div{
-        height: 50vh;
-        /* width: 503px; */
-        /* border: 1px solid black; */
-        /* text-align: center; */
-        background-image: url(../product/food/shawarma.jfif);
-        background-repeat: no-repeat;
-        background-size: 100% 100%;
-        margin-top: -24px;
-        
-    }
-    .header-h2{
-        font-size: 32px;
-        /* border: 1px solid black; */
-        width: 300px;
-        text-align: center;
-        margin-left: -4.3em;
-        margin-top: 1em;
-    }
-    .header-p{
-        font-size: 1.8rem;
-        /* border: 1px solid white; */
-        text-align: start;
-        width: 350px;
-        margin-left: -5em;
-        margin-top: 0.5em;
-    }
-}
-@media (min-width: 601px) and (max-width: 915px){
-    .header-div{
-        height: 50vh;
-        background-repeat: no-repeat;
-        background-size: 100% 100%;
-    }
-    .header-h2{
-        font-size: 2em;
-        margin-top: 2em;
-    }
-    .header-p{
-        font-size: 1.5em;
-        /* margin-top: 3em; */
-    }
+    font-size: 1.3rem;
+    color: #fefefe;
 }
 .about1-container{
-    background-color: #fefefe;
-}
-.about1-div{
-    /* border: 1px solid black; */
-    height: 40vh;
-    width: 60vw;
-    margin: auto;
-    padding-top: 5vh;
-    color: #000;
+    margin-bottom: 3vh;
 }
 .about1-h2{
     text-transform: capitalize;
 }
-.about1-p{
-    text-align: start;
-}
 .about1-btn{
-    width: 40vw;
-    background-color: #000;
-    color: #fefefe;
+    min-width: 40vw;
+    /* max-width: 50vw; */
+    min-height: 4vh;
+    /* max-height: 5vh; */
     border: none;
-    border-radius: 20px;
-    height: 6vh;
-}
-.about1-link{
-    text-decoration: none;
+    background-color: orange;
+    color: #fefefe;
 }
 .mid-container{
-    height: 50vh;
-    background-color: aliceblue;
-}
-.mid-div{
-    display: flex;
-    justify-content: center;
-    padding-top: 17.5vh;
+    background-color: rgb(229, 233, 233);
+    min-height: 30vh;
 }
 .call-div{
-    /* border: 1px solid black; */
-    text-align: start;
-    width: 27vw;
+    margin-bottom: 2em;
 }
 .visit-div{
-    text-align: start;
-    /* border: 1px solid black; */
-    width: 27vw;
+    margin-bottom: 2em;
 }
-.serve-div{
-    /* border: 1px solid black; */
-    width: 27vw;
-    height: 35vh;
-    margin-top: -10vh;
-    background-color: #fefefe;
-}
-.serve-h5{
-    padding: 15% 0%;
-    font-weight: 400;
-}
-.mid-h5{
-    font-weight: 400;
-}
-
-@media (max-width: 600px){
-    .about1-div{
-        width: 80vw;
-        height: 45vh;
-        font-size: 1.2em;
-        padding-top: 1.5vh;
+@media (min-width: 700px){
+    .header-div{
+        min-height: 40vh;
+        max-width: 100%;
+    }
+    .header-h2{
+        font-size: 3rem;
+    }
+    .header-p{
+        font-size: 2rem;
+        min-width: 70vw;
+        max-width: 80vw;
+        margin: auto;
     }
     .about1-h2{
-        text-transform: capitalize;
+        font-size: 2.5rem;
+    }
+    .about1-p{
+        min-width: 70vw;
+        max-width: 80vw;
+        margin: auto;
+        font-size: 1.4rem;
+        text-align: start;
+        margin-bottom: 1em;
     }
     .about1-btn{
-        width: 40vw;
-        background-color: #000;
-        border: none;
-        border-radius: 20px;
-        height: 4.5vh;
-        color: #fefefe;
-    }
-    .about1-link{
-        text-decoration: none;
-        /* background-color: #fefefe; */
+        min-width: 30vw;
+        max-width: 40vw;
+        min-height: 5vh;
+        max-height: 7vh;
+        font-size: 1.3rem;
     }
     .mid-div{
-        display: grid;
-        padding: 1.5em 0px;
+        display: flex;
+        justify-content: space-evenly;
+        padding: 5em 0em;
     }
-    .call-div, .visit-div, .serve-div{
-        width: 80vw;
+    .call-div{
+        max-width: 27vw;
+        margin-top: 3em;
+        text-align: start;
     }
     .visit-div{
-        margin-top: 2em;
+        max-width: 27vw;
+        text-align: start;
+        margin-top: 3em;
     }
     .serve-div{
-        height: 20vh;
-        margin-top: 2em;
-    }
-
-}
-@media (min-width: 601px) and (max-width: 915px){
-    .about1-div{
-        height: 50vh;
-    }
-    .mid-div{
-        display: grid;
-        grid-template-columns: 1fr 1fr 1fr;
-        padding-top: 7em;
+        max-width: 30vw;
+        padding-top: 1.5em;
         padding-left: 2em;
+        padding-right: 2em;
+        background-color: #fefefe;
     }
 }
